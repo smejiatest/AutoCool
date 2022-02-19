@@ -1,0 +1,2 @@
+# AutoCool
+Selenium Auto
